@@ -1,0 +1,9 @@
+body {
+color: #113;
+}
+.card-columns {
+border: 2px solid #ccc;
+border-radius: 10px;
+padding-left: 16px;
+padding-right:16px;
+}
